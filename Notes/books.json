@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6458f460a2272c689c86632e"
+  },
+  "title": "The Way of Kings",
+  "author": "Felix Owolabi",
+  "pages": 500,
+  "genres": [
+    "fantasy",
+    "magical"
+  ],
+  "ratings": 9
+},{
+  "_id": {
+    "$oid": "6458f460a2272c689c86632f"
+  },
+  "title": "The Call of Duty",
+  "author": "Seyi Odekomaya",
+  "pages": 300,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "ratings": 6
+},{
+  "_id": {
+    "$oid": "6458f460a2272c689c866330"
+  },
+  "title": "The Night has just begun",
+  "author": "Jennifer Ita",
+  "pages": 450,
+  "genres": [
+    "fantasy",
+    "comedy"
+  ],
+  "ratings": 6
+},{
+  "_id": {
+    "$oid": "6458fc3d5f1af2d84f0df5f4"
+  },
+  "title": "The Mercy of God",
+  "author": "Jesus Christ",
+  "pages": 290,
+  "genres": [
+    "fantasy",
+    "inspirational"
+  ],
+  "ratings": 9
+}]
